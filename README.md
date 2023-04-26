@@ -1,7 +1,7 @@
 # Discord-Bot-To-Kick-Crashed-Game-Clients
 
 This python script is used to enable players to remove their crashed game clients from an ark survival evolved game server by use of a discord command. 
-The script works by looking up the users steam account associated to the discord command users discord ID using the MYSQL database. 
+The script works by looking up the users steam account associated to the discord ID using the MYSQL database. 
 
 Prerequisites for this script to function:
 
