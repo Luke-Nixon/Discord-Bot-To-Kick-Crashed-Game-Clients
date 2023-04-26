@@ -1,0 +1,4 @@
+discord.py==2.2.2
+mysql-connector-python==8.0.33
+rcon==2.3.9
+
